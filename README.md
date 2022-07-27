@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
 <h3 align="center">A Java developer studying Javascript</h3>
 
-- 🌱 I’m currently learning **Javascript, Spring**
+- 🌱 I’m currently learning **Javascript, Typescript, NodeJs, ElasticStack**
 
 - 📫 How to reach me **rferrazrodrigues@gmail.com**
 
